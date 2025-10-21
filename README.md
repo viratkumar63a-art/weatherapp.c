@@ -1,2 +1,2 @@
-# weatherapp.c
-A weatherapp
+# Weather-App
+Create a weather app just using HTML,CSS,JS 
